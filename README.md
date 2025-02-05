@@ -1,33 +1,50 @@
 # 👨💻 Senior DevOps Engineer
 **"Automating the cloud, one Terraform config at a time"**  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rupesh3433.rupesh3433)](https://github.com/rupesh3433)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rupesh-poudel-1745a7249)
+[![Visitors](https://komarev.com/ghpvc/?username=rupesh3433&style=flat-square&color=blueviolet)](https://github.com/rupesh3433)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rupesh3433)
 
-## 🛠️ Tech Stack
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus)
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
-## 📊 GitHub Analytics
-[![Rupesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=dark)](https://github.com/rupesh3433)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&theme=dark)](https://github.com/rupesh3433)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rupesh3433&theme=dark)](https://git.io/streak-stats)
+## 📈 GitHub Analytics
+| <a href="https://github.com/rupesh3433"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=default&hide_border=true" alt="Rupesh's stats" /></a> | <a href="https://github.com/rupesh3433"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&theme=default&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## 🚀 Featured Projects
+<div align="center">
+  
+[![CloudGuard](https://github-readme-stats.vercel.app/api/pin/?username=rupesh3433&repo=CloudGuard&theme=default&show_owner=true)](https://github.com/rupesh3433/CloudGuard)
+[![KubeFlow](https://github-readme-stats.vercel.app/api/pin/?username=rupesh3433&repo=KubeFlow&theme=default&show_owner=true)](https://github.com/rupesh3433/KubeFlow)
+[![CI-CD-Accelerator](https://github-readme-stats.vercel.app/api/pin/?username=rupesh3433&repo=CI-CD-Accelerator&theme=default&show_owner=true)](https://github.com/rupesh3433/CI-CD-Accelerator)
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[CloudGuard](https://github.com/rupesh3433/CloudGuard)** | AWS security automation tool | Python, Terraform, AWS IAM |
-| **[KubeFlow](https://github.com/rupesh3433/KubeFlow)** | Kubernetes cluster optimization system | Go, Helm, Prometheus |
-| **[CI/CD Accelerator](https://github.com/rupesh3433/CI-CD-Accelerator)** | Universal pipeline template | Jenkins, Groovy, Docker |
+</div>
 
-## 🌟 Activity Map
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupesh3433&theme=github-dark)](https://github.com/rupesh3433)
+## 🌱 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=flat-square&logo=awslambda&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Functions-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white">
+</p>
 
-## 📬 Let's Connect
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rupesh-poudel-1745a7249)
+## 📫 Let's Connect
+<p align="left">
+  <a href="mailto:rupesh.poudel22@pccoepune.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rupesh-poudel-1745a7249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<div align="center">
+  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupesh3433&theme=react&area=true&hide_border=true)](https://github.com/rupesh3433)
+
+</div>
+
+## 🪂 Did You Know?
+> *"Once deployed a critical production fix while skydiving!"*  
+> *(Pronouns: He/Him)*
+
+<sub>🔒 For professional inquiries, please use email or LinkedIn. Phone contact reserved for urgent matters.</sub>
