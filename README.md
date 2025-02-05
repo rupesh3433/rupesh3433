@@ -1,44 +1,33 @@
-# Hello World! 👋 I'm Rupesh
+# 👨💻 Senior DevOps Engineer
+**"Automating the cloud, one Terraform config at a time"**  
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rupesh3433.rupesh3433)](https://github.com/rupesh3433)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rupesh-poudel-1745a7249)
 
-**Full-Stack Developer | Open Source Contributor | Tech Enthusiast**  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rupesh3433.rupesh3433)](https://github.com/rupesh3433) 
-[![GitHub Follow](https://img.shields.io/github/followers/rupesh3433?style=social)](https://github.com/rupesh3433)
-
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus)
 
-## 📈 GitHub Stats
-[![Rupesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=radical)](https://github.com/rupesh3433)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&theme=radical)](https://github.com/rupesh3433)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rupesh3433&theme=radical)](https://git.io/streak-stats)
+## 📊 GitHub Analytics
+[![Rupesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=dark)](https://github.com/rupesh3433)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&theme=dark)](https://github.com/rupesh3433)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rupesh3433&theme=dark)](https://git.io/streak-stats)
 
-## 🔥 Latest Projects
+## 🚀 Featured Projects
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [AI Code Reviewer](https://github.com/rupesh3433/ai-code-review) | ML-powered code analysis tool | Python, TensorFlow, FastAPI |
-| [Cloud Cost Optimizer](https://github.com/rupesh3433/cloud-optimizer) | AWS resource management dashboard | React, TypeScript, AWS CDK |
-| [DevConnect](https://github.com/rupesh3433/dev-connect) | Developer collaboration platform | Node.js, Socket.io, MongoDB |
+| **[CloudGuard](https://github.com/rupesh3433/CloudGuard)** | AWS security automation tool | Python, Terraform, AWS IAM |
+| **[KubeFlow](https://github.com/rupesh3433/KubeFlow)** | Kubernetes cluster optimization system | Go, Helm, Prometheus |
+| **[CI/CD Accelerator](https://github.com/rupesh3433/CI-CD-Accelerator)** | Universal pipeline template | Jenkins, Groovy, Docker |
 
-## 🌟 Featured Contributions
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupesh3433&repo=ai-code-review&theme=dark)](https://github.com/rupesh3433/ai-code-review)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupesh3433&repo=cloud-optimizer&theme=dark)](https://github.com/rupesh3433/cloud-optimizer)
+## 🌟 Activity Map
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupesh3433&theme=github-dark)](https://github.com/rupesh3433)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Docker](https://blog.example.com/microservices-docker)
-- [Optimizing React Performance in 2025](https://blog.example.com/react-optimization)
-- [AWS Cost Management Best Practices](https://blog.example.com/aws-cost-management)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh3433)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rupesh3433)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rupesh3433)
-
-## ⚡ Dynamic Activity
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupesh3433&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📬 Let's Connect
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rupesh-poudel-1745a7249)
