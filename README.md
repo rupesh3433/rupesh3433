@@ -65,9 +65,12 @@
 
 <div align="center" style="margin-top: 20px; display: flex; flex-direction: row; justify-content: space-between;">
 
-[![Email](https://img.shields.io/badge/📧_Email-Documentation-7B1FA2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
-[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-poudel-1745a7249)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
+  [![Email](https://img.shields.io/badge/📧_Email-Documentation-7B1FA2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
+  [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-poudel-1745a7249)
+  [![GitHub](https://img.shields.io/badge/💻_GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
+  [![Instagram](https://img.shields.io/badge/📷_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_username)
+  [![Facebook](https://img.shields.io/badge/👍_Facebook-Like-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your_facebook_username)
+  [![Telegram](https://img.shields.io/badge/💬_Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
 
 </div>
 
