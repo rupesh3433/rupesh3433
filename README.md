@@ -35,7 +35,7 @@ My studies have given me a solid foundation in computer science, and I love appl
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Rupesh's GitHub stats" />
   </a>
   <a href="https://github.com/rupesh3433?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=material-palenight" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&langs_count=8&theme=material-palenight" alt="Top Languages" />
   </a>
 </div>
 
