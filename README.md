@@ -10,10 +10,10 @@
 </div>
 
 ---
-<div style="font-size: 18px; font-weight: bold;">
-  🚀 About Me
+<div style="font-size: 24px; font-weight: bold;">
+  🚀 <strong>About Me</strong>
   <p>
-    I am a dedicated <strong>3rd-year Computer Engineering student</strong> 🎓 with a fervent interest in developing scalable solutions across various domains, including cloud automation, DevOps, and full-stack development. My academic journey has equipped me with a solid foundation in computer science principles, and I am committed to applying this knowledge to tackle complex challenges. I thrive on creating innovative tools that seamlessly transition ideas into production-ready technologies, aiming to contribute meaningfully to the ever-evolving tech landscape.
+    I am a dedicated Computer Engineering student🎓 with a fervent interest in developing scalable solutions across various domains, including cloud automation, DevOps, and full-stack development. My academic journey has equipped me with a solid foundation in computer science principles, and I am committed to applying this knowledge to tackle complex challenges. I thrive on creating innovative tools that seamlessly transition ideas into production-ready technologies, aiming to contribute meaningfully to the ever-evolving tech landscape.
   </p>
 </div>
 
