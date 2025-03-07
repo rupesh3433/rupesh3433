@@ -54,6 +54,105 @@ My studies have given me a solid foundation in computer science, and I love appl
 ## 🏆 Projects
 
 <div align="center">
+  <a href="https://github.com/rupesh3433/project-name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rupesh3433&repo=project-name-1&theme=material-palenight" alt="Project 1" />
+  </a>
+  <a href="https://github.com/rupesh3433/project-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rupesh3433&repo=project-name-2&theme=material-palenight" alt="Project 2" />
+  </a>
+</div>
+
+<details>
+  <summary>🔎 <b>Explore more projects</b></summary>
+  <br>
+  
+  <div class="project-card">
+    <h3>📱 Portfolio Website</h3>
+    <p>A responsive personal portfolio showcasing my projects and skills with smooth animations and dark/light mode.</p>
+    <div class="tech-stack">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
+    </div>
+    <div class="project-links">
+      <a href="https://github.com/rupesh3433/portfolio">
+        <img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github" alt="GitHub Repo" />
+      </a>
+      <a href="https://portfolio-demo.com">
+        <img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel" alt="Live Demo" />
+      </a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <h3>☁️ Task Management API</h3>
+    <p>RESTful API for managing tasks with user authentication, data validation, and comprehensive documentation.</p>
+    <div class="tech-stack">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </div>
+    <div class="project-links">
+      <a href="https://github.com/rupesh3433/task-api">
+        <img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github" alt="GitHub Repo" />
+      </a>
+      <a href="https://documenter.getpostman.com/view/task-api-docs">
+        <img src="https://img.shields.io/badge/API-Docs-orange?style=flat-square&logo=postman" alt="API Docs" />
+      </a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <h3>🌦️ Weather Dashboard</h3>
+    <p>Real-time weather application with interactive visualizations, location search, and 5-day forecasts.</p>
+    <div class="tech-stack">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Chart.js" />
+      <img src="https://img.shields.io/badge/API-OpenWeather-orange?style=for-the-badge" alt="OpenWeather API" />
+    </div>
+    <div class="project-links">
+      <a href="https://github.com/rupesh3433/weather-app">
+        <img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github" alt="GitHub Repo" />
+      </a>
+      <a href="https://weather-app-demo.com">
+        <img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel" alt="Live Demo" />
+      </a>
+    </div>
+  </div>
+
+</details>
+
+<style>
+.project-card {
+  margin-bottom: 30px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #2D2B55;
+  border-left: 4px solid #A277FF;
+}
+
+.tech-stack {
+  margin: 10px 0;
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.project-links {
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
+}
+
+h3 {
+  margin-top: 0;
+  color: #A277FF;
+}
+</style>
+
+## 🏆 Projects
+
+<div align="center">
   
 | Project | Description | Tech Stack | Link |
 |:-------:|:------------|:-----------|:----:|
