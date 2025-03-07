@@ -31,9 +31,25 @@ My studies have given me a solid foundation in computer science, and I love appl
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&langs_count=8&theme=material-palenight"/>
+  <a href="https://github.com/rupesh3433">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Rupesh's GitHub stats" />
+  </a>
+  <a href="https://github.com/rupesh3433?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&langs_count=8&theme=material-palenight" alt="Top Languages" />
+  </a>
 </div>
+
+<details>
+  <summary>📈 <b>Click to view more GitHub metrics</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupesh3433&theme=nord_dark" alt="GitHub Activity Summary" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh3433&theme=material-palenight" alt="GitHub Streak Stats" />
+    <br><br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupesh3433&theme=material-palenight" alt="Contribution Graph" />
+  </div>
+</details>
 
 ## 🏆 Projects
 
@@ -60,7 +76,7 @@ My studies have given me a solid foundation in computer science, and I love appl
 
 ---
 
-<div>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rupesh3433&theme=nord&column=7" alt="trophy"/>
 </div>
 
