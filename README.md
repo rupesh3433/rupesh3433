@@ -45,11 +45,9 @@ My studies have given me a solid foundation in computer science, and I love appl
     <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupesh3433&theme=nord_dark" alt="GitHub Activity Summary" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=material-palenight" alt="GitHub Streak Stats" />
-    <br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupesh3433&theme=material-palenight" alt="Contribution Graph" />
   </div>
-</details>)
+</details>
 
 
 ## 🏆 Projects
