@@ -67,8 +67,4 @@ I’m a passionate **3rd-year Computer Engineering student** 🎓 building scala
 
 ---
 
-## 💡 Fun Fact
-> "Automated my morning coffee routine using Raspberry Pi ☕"  
-> **Pronouns:** He/Him | **Open Source Contributor** 🚀
-
 <sub>📞 Let's discuss tech over chai! (Contact via email/LinkedIn for collaborations)</sub>
