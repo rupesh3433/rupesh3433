@@ -61,18 +61,29 @@
 
 ---
 
+<!-- Include Font Awesome CDN in the head of your document -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
 ## 🌐 Connect With Me
 
-<div align="center" style="margin-top: 20px; display: flex; flex-direction: row; justify-content: space-between;">
-
-  [![Email](https://img.shields.io/badge/📧_Email-Documentation-7B1FA2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
-  [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-poudel-1745a7249)
-  [![GitHub](https://img.shields.io/badge/💻_GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
-  [![Instagram](https://img.shields.io/badge/📷_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_username)
-  [![Facebook](https://img.shields.io/badge/👍_Facebook-Like-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your_facebook_username)
-  [![Telegram](https://img.shields.io/badge/💬_Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
-
+<div style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
+  <a href="mailto:rupesh.poudel22@pccoepune.org" style="font-size: 24px; color: #D44638;" aria-label="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
+  <a href="https://github.com/rupesh3433" style="font-size: 24px; color: #181717;" aria-label="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/rupesh-poudel-755b7a345" style="font-size: 24px; color: #0077B5;" aria-label="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://www.instagram.com/rupacepoudel" style="font-size: 24px; color: #E4405F;" aria-label="Instagram">
+    <i class="fab fa-instagram"></i>
+  </a>
+  <a href="https://www.facebook.com/rup.ace.5872" style="font-size: 24px; color: #1877F2;" aria-label="Facebook">
+    <i class="fab fa-facebook"></i>
+  </a>
 </div>
+
 
 ---
 
