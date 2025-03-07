@@ -1,133 +1,106 @@
-# 👨💻 Computer Engineer  
+# 👨‍💻 Computer Engineer  
 **"Automating solutions, building innovations, and mastering diverse tech stacks"**
 
 <div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=rupesh3433&style=for-the-badge&color=7B1FA2&label=PROFILE+VIEWS)](https://github.com/rupesh3433)
-  [![GitHub Stars](https://img.shields.io/badge/STARS-100-7B1FA2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
-  [![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-❤-7B1FA2?style=for-the-badge)](https://github.com/rupesh3433)
-</div>
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=rupesh3433&style=for-the-badge&color=7B1FA2&label=PROFILE+VIEWS)](https://github.com/rupesh3433)
+[![GitHub Stars](https://img.shields.io/github/stars/rupesh3433?style=for-the-badge&color=7B1FA2)](https://github.com/rupesh3433)
+[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-❤-7B1FA2?style=for-the-badge)](https://github.com/rupesh3433)
 
----
+</div>
 
 ## 🚀 About Me
 
-I’m a third-year Computer Engineering student 🎓 with a passion for crafting technology that makes a real difference. I enjoy turning creative ideas into practical applications—whether that means designing intuitive web interfaces, automating cloud workflows, or building robust full-stack solutions. My studies have given me a solid foundation in computer science, and I love applying that knowledge to overcome everyday challenges.
+I'm a third-year Computer Engineering student 🎓 with a passion for crafting technology that makes a real difference. I enjoy turning creative ideas into practical applications—whether that means designing intuitive web interfaces, automating cloud workflows, or building robust full-stack solutions. My studies have given me a solid foundation in computer science, and I love applying that knowledge to overcome everyday challenges.
 
-I believe in the power of collaboration and continuous learning. Every project is a chance to experiment, grow, and bring innovative concepts to life. I’m committed to bridging the gap between theory and practice, always aiming to create tools that enhance our digital experiences.
+I believe in the power of collaboration and continuous learning. Every project is a chance to experiment, grow, and bring innovative concepts to life. I'm committed to bridging the gap between theory and practice, always aiming to create tools that enhance our digital experiences.
 
----
-
-## 🛠 Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  
-<table>
-  <tr>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" alt="AWS"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/></td>
-    <td style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/></td>
-  </tr>
-  <tr>
-    <td colspan="4" style="text-align:center; font-weight:bold;">Mobile</td>
-    <td colspan="4" style="text-align:center; font-weight:bold;">Databases</td>
-    <td colspan="4" style="text-align:center; font-weight:bold;">Design</td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android"/></td>
-    <td colspan="2" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/></td>
-    <td colspan="2" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></td>
-    <td colspan="2" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></td>
-    <td colspan="2" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/></td>
-    <td colspan="2" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/></td>
-  </tr>
-</table>
-  
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend/Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 </div>
 
----
-
-## 📊 Coding Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rupesh3433">
-    <img src="https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/rupesh3433">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&theme=radical&hide=roff" alt="Top Languages"/>
-  </a>
-</div>
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/rupesh3433)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&theme=radical&hide=roff)](https://github.com/rupesh3433)
+
+</div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rupesh3433/CloudGuard"><strong>🔒 CloudGuard</strong></a></td>
-    <td>Cloud security automation toolkit</td>
-    <td>
-      <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws" alt="AWS" height="20">
-      <img src="https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure" alt="Azure" height="20">
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rupesh3433/KubeFlow"><strong>🚀 KubeFlow</strong></a></td>
-    <td>Kubernetes deployment optimizer</td>
-    <td>
-      <img src="https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes" alt="K8s" height="20">
-      <img src="https://img.shields.io/badge/-Helm-0F1689?logo=helm" alt="Helm" height="20">
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rupesh3433/CI-CD-Accelerator"><strong>⚡ CI/CD Accelerator</strong></a></td>
-    <td>Multi-cloud pipeline framework</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform" alt="Terraform" height="20">
-      <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions" alt="GitHub Actions" height="20">
-    </td>
-  </tr>
-</table>
-  
-</div>
 
----
+### 🔒 CloudGuard
+Cloud security automation toolkit  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)  
+[View Project](https://github.com/rupesh3433/CloudGuard)
+
+### 🚀 KubeFlow
+Kubernetes deployment optimizer  
+![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)  
+[View Project](https://github.com/rupesh3433/KubeFlow)
+
+### ⚡ CI/CD Accelerator
+Multi-cloud pipeline framework  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)  
+[View Project](https://github.com/rupesh3433/CI-CD-Accelerator)
+
+</div>
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:rupesh.poudel22@pccoepune.org" title="Email">
-    <img src="https://img.icons8.com/ios-filled/50/D44638/email.png" alt="Email" width="35" height="35">
-  </a>
-  <a href="https://github.com/rupesh3433" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="35" height="35">
-  </a>
-  <a href="https://www.linkedin.com/in/rupesh-poudel-755b7a345" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="35" height="35">
-  </a>
-  <a href="https://www.instagram.com/rupacepoudel" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="Instagram" width="35" height="35">
-  </a>
-  <a href="https://www.facebook.com/rup.ace.5872" title="Facebook">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" alt="Facebook" width="35" height="35">
-  </a>
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-poudel-755b7a345)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rupacepoudel)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rup.ace.5872)
+
 </div>
 
 ---
 
-<sub style="display: block; text-align: center;">📞 Let's discuss tech over chai! (Contact via email/LinkedIn for collaborations)</sub>
+<div align="center">
+  
+📞 Let's discuss tech over chai! (Contact via email/LinkedIn for collaborations)
+
+</div>
