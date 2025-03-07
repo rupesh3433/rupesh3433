@@ -10,10 +10,10 @@
 </div>
 
 ---
-
+<div align="center">
 ## 🚀 About Me
 I’m a passionate **3rd-year Computer Engineering student** 🎓 building scalable solutions across cloud automation, DevOps, and full-stack development. I thrive on solving complex problems and creating tools that bridge the gap between ideas and production-ready tech.
-
+</div>
 ---
 
 ## 🛠 Tech Stack & Skills
