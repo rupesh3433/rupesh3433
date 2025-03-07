@@ -63,7 +63,7 @@
 
 ## 🌐 Connect With Me
 
-<div align="center" style="margin-top: 20px">
+<div align="center" style="margin-top: 20px; display: flex; flex-direction: row; justify-content: space-between;">
 
 [![Email](https://img.shields.io/badge/📧_Email-Documentation-7B1FA2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
 [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-poudel-1745a7249)
