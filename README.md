@@ -1,9 +1,13 @@
 # 👨💻 Computer Engineer | 3rd Year Student  
 **"Automating solutions, building innovations, and mastering diverse tech stacks"**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rupesh3433&style=flat-square&color=blueviolet)](https://github.com/rupesh3433)
-[![GitHub Stars](https://img.shields.io/github/stars/rupesh3433?label=Stars&style=social)](https://github.com/rupesh3433)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rupesh3433)
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=rupesh3433&style=for-the-badge&color=7B1FA2&label=PROFILE+VIEWS)](https://github.com/rupesh3433)
+[![GitHub Stars](https://img.shields.io/badge/STARS-100-7B1FA2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
+[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-❤-7B1FA2?style=for-the-badge)](https://github.com/rupesh3433)
+
+</div>
 
 ---
 
@@ -14,13 +18,25 @@ I’m a passionate **3rd-year Computer Engineering student** 🎓 building scala
 
 ## 🛠 Tech Stack & Skills
 
-<div align="center">
+<div align="center" style="margin: -10px">
 
-| **Frontend** | **Backend/Cloud** | **Tools & More** |
-|--------------|-------------------|------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> |
-| **Mobile** | **Databases** | **Design** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> |
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" style="margin: 0 8px"/>
+
+**Backend/Cloud**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" style="margin: 0 8px"/>
+
+**Tools & DevOps**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin: 0 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" style="margin: 0 8px"/>
 
 </div>
 
@@ -28,10 +44,10 @@ I’m a passionate **3rd-year Computer Engineering student** 🎓 building scala
 
 ## 📊 Coding Activity
 
-<div align="center">
+<div align="center" style="margin-top: -20px">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=radical&hide_title=true)](https://github.com/rupesh3433)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&theme=radical)](https://github.com/rupesh3433)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/rupesh3433)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh3433&layout=compact&theme=radical&hide=roff)](https://github.com/rupesh3433)
 
 </div>
 
@@ -41,13 +57,11 @@ I’m a passionate **3rd-year Computer Engineering student** 🎓 building scala
 
 <div align="center">
   
-| [**CloudGuard**](https://github.com/rupesh3433/CloudGuard) | [**KubeFlow**](https://github.com/rupesh3433/KubeFlow) |
-|------------------------------------------------------------|--------------------------------------------------------|
-| AWS/Azure security automation toolkit                      | Kubernetes deployment pipeline optimizer               |
-
-| [**CI/CD Accelerator**](https://github.com/rupesh3433/CI-CD-Accelerator) |
-|--------------------------------------------------------------------------|
-| Multi-cloud CI/CD pipeline framework with Terraform                      |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**🔒 CloudGuard**](https://github.com/rupesh3433/CloudGuard) | Cloud security automation toolkit | <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws" height="20"/> <img src="https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure" height="20"/> |
+| [**🚀 KubeFlow**](https://github.com/rupesh3433/KubeFlow) | Kubernetes deployment optimizer | <img src="https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes" height="20"/> <img src="https://img.shields.io/badge/-Helm-0F1689?logo=helm" height="20"/> |
+| [**⚡ CI/CD Accelerator**](https://github.com/rupesh3433/CI-CD-Accelerator) | Multi-cloud pipeline framework | <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform" height="20"/> <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions" height="20"/> |
 
 </div>
 
@@ -55,20 +69,18 @@ I’m a passionate **3rd-year Computer Engineering student** 🎓 building scala
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="center" style="margin-top: 20px">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-poudel-1745a7249)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+[![Email](https://img.shields.io/badge/📧_Email-Documentation-7B1FA2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
+[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-poudel-1745a7249)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
 
 </div>
 
 ---
 
 ## 💡 Fun Fact
-> "Coded a Python automation script during a 14-hour flight ✈️"  
-> **Pronouns:** He/Him | **Coffee Enthusiast** ☕
+> "Automated my morning coffee routine using Raspberry Pi ☕"  
+> **Pronouns:** He/Him | **Open Source Contributor** 🚀
 
-<sub>📞 Phone contact reserved for urgent collaborations only</sub>
+<sub>📞 Let's discuss tech over chai! (Contact via email/LinkedIn for collaborations)</sub>
