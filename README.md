@@ -60,7 +60,7 @@ My studies have given me a solid foundation in computer science, and I love appl
 
 ---
 
-<div align="center">
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=rupesh3433&theme=nord&column=7" alt="trophy"/>
 </div>
 
