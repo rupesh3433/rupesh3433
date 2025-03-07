@@ -1,4 +1,4 @@
-# 👨💻 Computer Engineer | 3rd Year Student  
+# 👨💻 Computer Engineer  
 **"Automating solutions, building innovations, and mastering diverse tech stacks"**
 
 <div align="center">
