@@ -55,8 +55,7 @@ My studies have given me a solid foundation in computer science, and I love appl
   
 | Project | Description | Tech Stack | Link |
 |:-------:|:------------|:-----------|:----:|
-| **Portfolio Website** | A responsive personal portfolio showcasing my projects and skills | React, Tailwind CSS, Framer Motion | [View →](https://rupesh3433.github.io/rupesh-portfolio/
-) |
+| **Portfolio Website** | A responsive personal portfolio showcasing my projects and skills | React, Tailwind CSS, Framer Motion | [View →](https://rupesh3433.github.io/rupesh-portfolio/) |
 | **Task Management API** | RESTful API for managing and organizing tasks with authentication | Node.js, Express, MongoDB, JWT | [View →](https://github.com/rupesh3433) |
 | **Weather Dashboard** | Real-time weather application with interactive visualizations | React, OpenWeather API, Chart.js | [View →](https://github.com/rupesh3433) |
   
