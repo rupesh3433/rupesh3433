@@ -13,7 +13,10 @@
 ## 🚀 About Me
 <div style="font-size: 24px; font-weight: bold;">
   <p>
-    I am a dedicated Computer Engineering student🎓 with a fervent interest in developing scalable solutions across various domains, including cloud automation, DevOps, and full-stack development. My academic journey has equipped me with a solid foundation in computer science principles, and I am committed to applying this knowledge to tackle complex challenges. I thrive on creating innovative tools that seamlessly transition ideas into production-ready technologies, aiming to contribute meaningfully to the ever-evolving tech landscape.
+    I’m a third-year Computer Engineering student 🎓 with a passion for crafting technology that makes a real difference. I enjoy turning creative ideas into practical applications—whether that means designing intuitive web interfaces, automating cloud workflows, or building robust full-stack solutions. My studies have given me a solid foundation in computer science, and I love applying that knowledge to overcome everyday challenges.
+  </p>
+  <p>
+    I believe in the power of collaboration and continuous learning. Every project is a chance to experiment, grow, and bring innovative concepts to life. I’m committed to bridging the gap between theory and practice, always aiming to create tools that enhance our digital experiences.
   </p>
 </div>
 
