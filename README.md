@@ -11,17 +11,8 @@
 
 ---
 
-## 📚 Table of Contents
-- [About Me](#about-me)
-- [Tech Stack & Skills](#tech-stack--skills)
-- [Coding Activity](#coding-activity)
-- [Featured Projects](#featured-projects)
-- [Connect With Me](#connect-with-me)
-
----
-
 <details open>
-  <summary id="about-me"><h2>🚀 About Me</h2></summary>
+  <summary><h2>🚀 About Me</h2></summary>
   <div style="font-size: 24px; font-weight: bold;">
     <p>
       I’m a third-year Computer Engineering student 🎓 with a passion for crafting technology that makes a real difference. I enjoy turning creative ideas into practical applications—whether that means designing intuitive web interfaces, automating cloud workflows, or building robust full-stack solutions. My studies have given me a solid foundation in computer science, and I love applying that knowledge to overcome everyday challenges.
@@ -35,7 +26,7 @@
 ---
 
 <details open>
-  <summary id="tech-stack--skills"><h2>🛠 Tech Stack & Skills</h2></summary>
+  <summary><h2>🛠 Tech Stack & Skills</h2></summary>
   <div align="center">
   
   | **Frontend** | **Backend/Cloud** | **Tools & More** |
@@ -50,7 +41,7 @@
 ---
 
 <details open>
-  <summary id="coding-activity"><h2>📊 Coding Activity</h2></summary>
+  <summary><h2>📊 Coding Activity</h2></summary>
   <div align="center" style="margin-top: -20px">
     
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh3433&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/rupesh3433)
@@ -62,7 +53,7 @@
 ---
 
 <details open>
-  <summary id="featured-projects"><h2>🚀 Featured Projects</h2></summary>
+  <summary><h2>🚀 Featured Projects</h2></summary>
   <div align="center">
     
   | Project | Description | Tech Stack |
@@ -76,29 +67,25 @@
 
 ---
 
-<details open>
-  <summary id="connect-with-me"><h2>🌐 Connect With Me</h2></summary>
-  <!-- Include Font Awesome CDN in the head of your document -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-  
-  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
-    <a href="mailto:rupesh.poudel22@pccoepune.org" style="font-size: 24px; color: #D44638;" aria-label="Email">
-      <i class="fas fa-envelope"></i>
-    </a>
-    <a href="https://github.com/rupesh3433" style="font-size: 24px; color: #181717;" aria-label="GitHub">
-      <i class="fab fa-github"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/rupesh-poudel-755b7a345" style="font-size: 24px; color: #0077B5;" aria-label="LinkedIn">
-      <i class="fab fa-linkedin"></i>
-    </a>
-    <a href="https://www.instagram.com/rupacepoudel" style="font-size: 24px; color: #E4405F;" aria-label="Instagram">
-      <i class="fab fa-instagram"></i>
-    </a>
-    <a href="https://www.facebook.com/rup.ace.5872" style="font-size: 24px; color: #1877F2;" aria-label="Facebook">
-      <i class="fab fa-facebook"></i>
-    </a>
-  </div>
-</details>
+## 🌐 Connect With Me
+
+<div style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
+  <a href="mailto:rupesh.poudel22@pccoepune.org" aria-label="Email">
+    <img src="https://img.icons8.com/ios-filled/50/D44638/email.png" width="30" height="30" alt="Email"/>
+  </a>
+  <a href="https://github.com/rupesh3433" aria-label="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" width="30" height="30" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rupesh-poudel-755b7a345" aria-label="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/rupacepoudel" aria-label="Instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" width="30" height="30" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/rup.ace.5872" aria-label="Facebook">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" width="30" height="30" alt="Facebook"/>
+  </a>
+</div>
 
 ---
 
