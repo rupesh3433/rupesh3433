@@ -65,24 +65,14 @@ My studies have given me a solid foundation in computer science, and I love appl
 
 ## 🌐 Connect With Me
 
-I’m always open to discussing new projects, innovative ideas, or collaborations over a cup of chai! Feel free to reach out through any of the platforms below:
+<div align="center">
 
-<div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
-  <a href="mailto:rupesh.poudel22@pccoepune.org" style="font-size: 24px; color: #D44638;" aria-label="Email">
-    <i class="fas fa-envelope"></i>
-  </a>
-  <a href="https://github.com/rupesh3433" style="font-size: 24px; color: #181717;" aria-label="GitHub">
-    <i class="fab fa-github"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/rupesh-poudel-755b7a345" style="font-size: 24px; color: #0077B5;" aria-label="LinkedIn">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  <a href="https://www.instagram.com/rupacepoudel" style="font-size: 24px; color: #E4405F;" aria-label="Instagram">
-    <i class="fab fa-instagram"></i>
-  </a>
-  <a href="https://www.facebook.com/rup.ace.5872" style="font-size: 24px; color: #1877F2;" aria-label="Facebook">
-    <i class="fab fa-facebook"></i>
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupesh.poudel22@pccoepune.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-poudel-1745a7249)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh3433)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+
 </div>
 
 ---
